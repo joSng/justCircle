@@ -1,3 +1,9 @@
+body{
+  -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+
 .center{
     margin: 0;
     position: absolute;
